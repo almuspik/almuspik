@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **almuspik49@gmail.com**
 
-- ⚡ Fun fact **Software engineer cum Passionate in Cricket**
+- ⚡ Fun fact **Software engineer and Passionate in Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
