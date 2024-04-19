@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **almuspik49@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/home/RESUME.PDF" target="blank">RESUME</a>
-
 - ⚡ Fun fact **Software engineer cum Passionate in Cricket**
 
 <h3 align="left">Connect with me:</h3>
