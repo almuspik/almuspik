@@ -20,6 +20,7 @@
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Almuspik49)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almuspik_49/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/almuspik_49/)
+[![Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg)](https://www.stackoverflow.com/almuspik)
 
 
 
@@ -63,6 +64,6 @@
 <hr>
 
 <p>My stats:</p>
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=esakkinathan&layout=compact&langs_count=16&theme=dracula"/>
+
 
 <hr>
