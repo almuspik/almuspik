@@ -25,8 +25,8 @@
 <hr>
 <ul>
 <li>🥲 Check out my <a href="https://esakkinathan.pythonanywhere.com/">Website</a></li>
-<li>🎗️ Check out my <a href="https://github.com/Esakkinathan/esakkinathan/blob/main/Esakkinathan-B-resume.pdf">Resume</a></li>
-<li> 🎈 Check out my <a href="https://www.hackerrank.com/profile/Almuspik">HackerRank</a> Profile</li>
+<li>🎗️ Check out my <a href="https://github.com/">Resume</a></li>
+<li> 🎈 Check out my <a href="https://www.hackerrank.com/profile/Almuspik49">HackerRank</a> Profile</li>
 </ul>
 <hr>
 <p>
