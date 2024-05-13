@@ -9,7 +9,6 @@
 - ⚡ Fun fact **Software engineer and Passionate in Cricket**
 
 <div>
-<h3 align="center"> Hi there I'm Ranjit </h3>
   
 
   <hr>
