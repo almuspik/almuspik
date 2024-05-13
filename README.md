@@ -4,14 +4,14 @@
 - 🌱 I’m currently learning **kali linux for Ethical Hacking Cyber Security**
 
 - 📫 How to reach me **almuspik49@gmail.com**
-- 📄 Know about my experiences <a href="Mus resume.pdf" target="blank">RESUME</a>
+- 📄 Know about my experiences <a href="almuspik\Mus resume.pdf" target="blank">RESUME</a>
 
 - ⚡ Fun fact **Software engineer and Passionate in Cricket**
 
 <div>
 <h3 align="center"> Hi there I'm Ranjit </h3>
   
-<!--   <p align="center"><img src="https://github.com/Esakkinathan/esakkinathan/blob/main/code.gif" width=400 height=300></p> -->
+
   <hr>
 <p> Contact me:
 
