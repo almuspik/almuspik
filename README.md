@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **kali linux for Ethical Hacking Cyber Security**
 
 - 📫 How to reach me **almuspik49@gmail.com**
-- 📄 Know about my experiences <a href="Mus resume.pdf" target="blank">RESUME</a>
+- 📄 Know about my experiences <a href="Almuspik_Resume.pdf" target="blank">RESUME</a>
 
 - ⚡ Fun fact **Software engineer and Passionate in Cricket**
 
@@ -27,7 +27,7 @@
 <hr>
 <ul>
 <li>🥲 Check out my <a href="https://pythonanywhere.com/">Website</a></li>
-<li>🎗️ Check out my <a href="https://github.com/almuspik\Mus resume.pdf">Resume</a></li>
+<li>🎗️ Check out my <a href="https://github.com/almuspik\Almuspik_Resume.pdf">Resume</a></li>
 <li> 🎈 Check out my <a href="https://www.hackerrank.com/profile/Almuspik49">HackerRank</a> Profile</li>
 </ul>
 <hr>
