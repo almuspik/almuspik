@@ -26,7 +26,7 @@
 </p>
 <hr>
 <ul>
-<li>🥲 Check out my <a href="https://pythonanywhere.com/">Website</a></li>
+<li>🥲 Check out my <a href="almuspik.pythonanywhere.com">Website</a></li>
 <li>🎗️ Check out my <a href="https://github.com/almuspik/almuspik/blob/main/Almuspik_Resume.pdf">Resume</a></li>
 <li> 🎈 Check out my <a href="https://www.hackerrank.com/profile/Almuspik49">HackerRank</a> Profile</li>
 </ul>
